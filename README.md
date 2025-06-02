@@ -1,16 +1,34 @@
-# flutter_pagination
+# Flutter Pagination App with BLoC
 
-A new Flutter project.
+A simple Flutter application demonstrating infinite scroll pagination using the BLoC state management pattern. This app fetches a paginated list of products from an API and loads more as the user scrolls.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Infinite scroll with smooth pagination  
+- BLoC pattern for clean and scalable state management  
+- API integration using a repository pattern  
+- Loading indicators and graceful error handling  
+- Modular folder structure  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+Follow these steps to run the app locally:
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/dakeanuja/flutter-pagination-app.git
+   cd flutter-pagination-app
+   
+2. **Install Dependencies**
+  - flutter pub get
+
+3. **Run the App**
+   - flutter run
+
+Made by @dakeanuja
+
+---
