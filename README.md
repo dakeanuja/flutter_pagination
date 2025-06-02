@@ -29,6 +29,4 @@ Follow these steps to run the app locally:
 3. **Run the App**
    - flutter run
 
-Made by @dakeanuja
-
 ---
